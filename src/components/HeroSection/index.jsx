@@ -11,7 +11,7 @@ const HeroSection = () => {
   }
 
   return (
-    <HeroContainer>
+    <HeroContainer id='home'>
       <HeroBg>
         <VideoBg
           autoPlay
@@ -31,6 +31,10 @@ const HeroSection = () => {
             onMouseLeave={toggleHover}
             primary='true'
             dark='true'
+            smooth={true}
+            duration={500}
+            spy={true}
+            offset={-80}
           >
             Get started {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
