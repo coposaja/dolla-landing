@@ -18,7 +18,6 @@ const InfoSection = ({
   dark,
   dark2,
 }) => {
-  console.log(img);
   return (
     <>
       <InfoContainer lightBg={lightBg} id={id}>

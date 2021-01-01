@@ -1,4 +1,6 @@
 import CarImg from '../../assets/images/car.svg';
+import PigImg from '../../assets/images/pig.svg';
+import OnlineImg from '../../assets/images/online.svg';
 
 export const homeObjOne = {
   id: 'about',
@@ -15,4 +17,38 @@ export const homeObjOne = {
   dark: true,
   primary: true,
   darkText: false,
+}
+
+export const homeObjTwo = {
+  id: 'discover',
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
+  topLine: 'Unlimited Access',
+  headLine: 'Login to your account at any time',
+  description: 'We have you covered no matter where you are located. All you need is an internet connection and a phone or computer',
+  buttonLabel: 'Learn More',
+  imgStart: true,
+  img: PigImg,
+  alt: 'Piggybank',
+  dark: false,
+  primary: false,
+  darkText: true,
+}
+
+export const homeObjThree = {
+  id: 'signup',
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
+  topLine: 'Join our Team',
+  headLine: 'Creating an account is extremely easy',
+  description: 'Get everything set up and ready in under 10 minutes. All you need to do is add your information and you\'re ready to go.',
+  buttonLabel: 'Start Now',
+  imgStart: false,
+  img: OnlineImg,
+  alt: 'Paper',
+  dark: false,
+  primary: false,
+  darkText: true,
 }
