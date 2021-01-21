@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dolla-landing/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/dolla-landing/static/js/main.93d21763.chunk.js",
+    "main.js.map": "/dolla-landing/static/js/main.93d21763.chunk.js.map",
+    "runtime-main.js": "/dolla-landing/static/js/runtime-main.8b2ac413.js",
+    "runtime-main.js.map": "/dolla-landing/static/js/runtime-main.8b2ac413.js.map",
+    "static/js/2.2096ad1b.chunk.js": "/dolla-landing/static/js/2.2096ad1b.chunk.js",
+    "static/js/2.2096ad1b.chunk.js.map": "/dolla-landing/static/js/2.2096ad1b.chunk.js.map",
+    "index.html": "/dolla-landing/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/dolla-landing/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.2096ad1b.chunk.js.LICENSE.txt": "/dolla-landing/static/js/2.2096ad1b.chunk.js.LICENSE.txt",
+    "static/media/benefit.b8e41778.svg": "/dolla-landing/static/media/benefit.b8e41778.svg",
+    "static/media/car.198c8835.svg": "/dolla-landing/static/media/car.198c8835.svg",
+    "static/media/online.5394e075.svg": "/dolla-landing/static/media/online.5394e075.svg",
+    "static/media/pig.5f11287c.svg": "/dolla-landing/static/media/pig.5f11287c.svg",
+    "static/media/video.7d1ea6a9.mp4": "/dolla-landing/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b2ac413.js",
+    "static/js/2.2096ad1b.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.93d21763.chunk.js"
+  ]
+}
